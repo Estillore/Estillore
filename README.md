@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcx Edilbert S. Estillore</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A Student developer from Philippines</h3>
 
 - 🔭 I’m currently working on **Client Order & Sales Tracking**
 
