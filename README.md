@@ -45,7 +45,7 @@ Most of these are private repositories, so they are described without links. Scr
 
 <table>
 <tr>
-<td width="42%" valign="top"><img src="assets/projects/biomed-job-orders.png" alt="BioMed job orders list with filters, built on sample data"></td>
+<td width="42%" valign="top"><img src="assets/projects/biomed-job-orders.png" alt="BioMed job orders list with filters, built on sample data" width="420"></td>
 <td valign="top"><b>BioMed service and supply platform (private)</b><br>Used by the biomedical team of a U.S.-based acute dialysis company. Tracks equipment job orders through review, maintenance records, supply orders and inventory, and emails vendors and stores automatically. Also covers water-quality test records, waste logs and service reports.<br><br><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"></td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ Most of these are private repositories, so they are described without links. Scr
 </td>
 </tr>
 <tr>
-<td width="42%" valign="top"><img src="assets/projects/servpro-medical-dashboard.png" alt="ServPro Medical dashboard with stock, expiry and sales charts, built on sample data"></td>
+<td width="42%" valign="top"><img src="assets/projects/servpro-medical-dashboard.png" alt="ServPro Medical dashboard with stock, expiry and sales charts, built on sample data" width="420"></td>
 <td valign="top"><b>ServPro Medical (private)</b><br>Inventory system for a medical supplier. Item templates, barcode generation and camera scanning, lot and expiry tracking, recalls, sterilization cycles and sales, with live updates between users.<br><br><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" alt="Inertia.js"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Laravel_Reverb-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Reverb"> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"></td>
 </tr>
 <tr>
@@ -98,7 +98,7 @@ Also in this area:
 
 <table>
 <tr>
-<td width="42%" valign="top"><img src="assets/projects/costmed-pos.png" alt="Costmed point of sale screen with a sample cart"></td>
+<td width="42%" valign="top"><img src="assets/projects/costmed-pos.png" alt="Costmed point of sale screen with a sample cart" width="420"></td>
 <td valign="top"><b>Costmed POS and inventory (private)</b><br>Multi-tenant point of sale and inventory for a pharmacy retailer. Shift-gated selling, box scanning, role-based permissions, silent thermal receipt printing through a local helper, and scripted backups.<br><br><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ Also in this area:
 </td>
 </tr>
 <tr>
-<td width="42%" valign="top"><img src="assets/projects/velamart-attendance.png" alt="Velamart attendance period with a daily grid, using sample employees"></td>
+<td width="42%" valign="top"><img src="assets/projects/velamart-attendance.png" alt="Velamart attendance period with a daily grid, using sample employees" width="420"></td>
 <td valign="top"><b>Velamart accounting and payroll (private)</b><br>HR and payroll for Philippine small businesses. Employees, shift schedules, attendance import and review, semi-monthly pay runs with SSS, PhilHealth and Pag-IBIG contributions. Runs on the web and has an offline desktop build.<br><br><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron"> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"></td>
 </tr>
 <tr>
@@ -131,7 +131,7 @@ Also in this area:
 </td>
 </tr>
 <tr>
-<td width="42%" valign="top"><img src="assets/projects/business-os-inventory.png" alt="BUSINESS-OS inventory screen with sample products"></td>
+<td width="42%" valign="top"><img src="assets/projects/business-os-inventory.png" alt="BUSINESS-OS inventory screen with sample products" width="420"></td>
 <td valign="top"><b>BUSINESS-OS (private)</b><br>Local-first business app for Philippine small businesses: inventory, sales, purchases, expenses, payroll and financial reports, with VAT and percentage-tax settings. Data stays in the browser, with optional backup and sync to MySQL.<br><br><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"></td>
 </tr>
 <tr>
@@ -157,7 +157,7 @@ Also in this area:
 <td colspan="2" valign="top"><b>IT Ops (Laravel) (private)</b><br>IT operations app with procurement: purchase orders, quotes read from PDF, Excel, Word and OCR scans, LPO generation, and automatic Requested and Closed status. Also covers stock with check-out, check-in and retire, vendors, people, users and roles with permissions, a dashboard with a procurement area chart and activity log, global search and magic-link sign-in.<br><br><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" alt="Inertia.js"> <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui"> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Tesseract_OCR-5A5A5A?style=flat-square" alt="Tesseract OCR"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"> <img src="https://img.shields.io/badge/Pest-F72C5B?style=flat-square&logo=pestphp&logoColor=white" alt="Pest"></td>
 </tr>
 <tr>
-<td width="42%" valign="top"><img src="assets/projects/htbc-portal-dashboard.png" alt="HTBC portal dashboard on an empty test database"></td>
+<td width="42%" valign="top"><img src="assets/projects/htbc-portal-dashboard.png" alt="HTBC portal dashboard on an empty test database" width="420"></td>
 <td valign="top"><b>HTBC member portal (private)</b><br>Portal for a church community. Ticketing, an activities calendar and board, notifications, a people directory with duplicate detection and merge, attendance and discipleship tracking, calendar sync and database-backed permissions. A companion mobile app is built with Expo.<br><br><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"></td>
 </tr>
 <tr>
@@ -187,7 +187,7 @@ Also in this area:
 
 <table>
 <tr>
-<td width="42%" valign="top"><img src="assets/projects/start-and-thrive-database.png" alt="Start and Thrive database table view with sample rows"></td>
+<td width="42%" valign="top"><img src="assets/projects/start-and-thrive-database.png" alt="Start and Thrive database table view with sample rows" width="420"></td>
 <td valign="top"><b>Start and Thrive (private)</b><br>Workspace app for an office support services business, in the style of a notes and database tool. Wiki pages, databases with table, board and calendar views, a rich-text editor, comments with mentions, notifications, favorites, revision history and file uploads. Each user's data is isolated, with owner and member roles.<br><br><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger"></td>
 </tr>
 <tr>
@@ -203,7 +203,7 @@ Also in this area:
 </td>
 </tr>
 <tr>
-<td width="42%" valign="top"><img src="assets/projects/portfolio.png" alt="Personal portfolio landing section"></td>
+<td width="42%" valign="top"><img src="assets/projects/portfolio.png" alt="Personal portfolio landing section" width="420"></td>
 <td valign="top"><b>Personal portfolio (private)</b><br>My portfolio site, deployed on Railway.<br><br><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"></td>
 </tr>
 <tr>
