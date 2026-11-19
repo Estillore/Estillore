@@ -49,8 +49,34 @@ Most of these are private repositories, so they are described without links. Scr
 <td valign="top"><b>BioMed service and supply platform (private)</b><br>Used by the biomedical team of a U.S.-based acute dialysis company. Tracks equipment job orders through review, maintenance records, supply orders and inventory, and emails vendors and stores automatically. Also covers water-quality test records, waste logs and service reports.<br><br><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"></td>
 </tr>
 <tr>
+<td colspan="2">
+<details>
+<summary>More screens</summary>
+<br>
+<table>
+<tr><td width="50%" valign="top"><img src="assets/projects/biomed-job-orders/01.png" alt="New job order form" width="100%"><br><sub>New job order form</sub></td><td width="50%" valign="top"><img src="assets/projects/biomed-job-orders/02.png" alt="Parts lines with prices and totals" width="100%"><br><sub>Parts lines with prices and totals</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/biomed-job-orders/03.png" alt="Saved job orders list with filters" width="100%"><br><sub>Saved job orders list with filters</sub></td><td width="50%" valign="top"><img src="assets/projects/biomed-job-orders/04.png" alt="Quarterly maintenance schedule by PM type" width="100%"><br><sub>Quarterly maintenance schedule by PM type</sub></td></tr>
+</table>
+</details>
+</td>
+</tr>
+<tr>
 <td width="42%" valign="top"><img src="assets/projects/servpro-medical-dashboard.png" alt="ServPro Medical dashboard with stock, expiry and sales charts, built on sample data"></td>
 <td valign="top"><b>ServPro Medical (private)</b><br>Inventory system for a medical supplier. Item templates, barcode generation and camera scanning, lot and expiry tracking, recalls, sterilization cycles and sales, with live updates between users.<br><br><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" alt="Inertia.js"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Laravel_Reverb-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Reverb"> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"></td>
+</tr>
+<tr>
+<td colspan="2">
+<details>
+<summary>More screens</summary>
+<br>
+<table>
+<tr><td width="50%" valign="top"><img src="assets/projects/servpro-medical/01.png" alt="Inventory list with filters, stock and expiry status" width="100%"><br><sub>Inventory list with filters, stock and expiry status</sub></td><td width="50%" valign="top"><img src="assets/projects/servpro-medical/02.png" alt="Item detail with movement history, barcode and label" width="100%"><br><sub>Item detail with movement history, barcode and label</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/servpro-medical/03.png" alt="Stock movements and record-movement form" width="100%"><br><sub>Stock movements and record-movement form</sub></td><td width="50%" valign="top"><img src="assets/projects/servpro-medical/04.png" alt="Barcode scan station for stock in and out" width="100%"><br><sub>Barcode scan station for stock in and out</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/servpro-medical/05.png" alt="Alerts for low stock and expiring items" width="100%"><br><sub>Alerts for low stock and expiring items</sub></td><td width="50%" valign="top"><img src="assets/projects/servpro-medical/06.png" alt="Reports with exportable tables" width="100%"><br><sub>Reports with exportable tables</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/servpro-medical/07.png" alt="Audit log of every action" width="100%"><br><sub>Audit log of every action</sub></td><td width="50%"></td></tr>
+</table>
+</details>
+</td>
 </tr>
 </table>
 
@@ -76,12 +102,51 @@ Also in this area:
 <td valign="top"><b>Costmed POS and inventory (private)</b><br>Multi-tenant point of sale and inventory for a pharmacy retailer. Shift-gated selling, box scanning, role-based permissions, silent thermal receipt printing through a local helper, and scripted backups.<br><br><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></td>
 </tr>
 <tr>
+<td colspan="2">
+<details>
+<summary>More screens</summary>
+<br>
+<table>
+<tr><td width="50%" valign="top"><img src="assets/projects/costmed-pos/01.png" alt="Start shift with opening cash count" width="100%"><br><sub>Start shift with opening cash count</sub></td><td width="50%" valign="top"><img src="assets/projects/costmed-pos/02.png" alt="Sales log with status and receipt actions" width="100%"><br><sub>Sales log with status and receipt actions</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/costmed-pos/03.png" alt="Void flow with admin guard" width="100%"><br><sub>Void flow with admin guard</sub></td><td width="50%" valign="top"><img src="assets/projects/costmed-pos/04.png" alt="Product inventory with barcode and price" width="100%"><br><sub>Product inventory with barcode and price</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/costmed-pos/05.png" alt="Store, tax and receipt settings" width="100%"><br><sub>Store, tax and receipt settings</sub></td><td width="50%"></td></tr>
+</table>
+</details>
+</td>
+</tr>
+<tr>
 <td width="42%" valign="top"><img src="assets/projects/velamart-attendance.png" alt="Velamart attendance period with a daily grid, using sample employees"></td>
 <td valign="top"><b>Velamart accounting and payroll (private)</b><br>HR and payroll for Philippine small businesses. Employees, shift schedules, attendance import and review, semi-monthly pay runs with SSS, PhilHealth and Pag-IBIG contributions. Runs on the web and has an offline desktop build.<br><br><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron"> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"></td>
 </tr>
 <tr>
+<td colspan="2">
+<details>
+<summary>More screens</summary>
+<br>
+<table>
+<tr><td width="50%" valign="top"><img src="assets/projects/velamart-attendance/01.png" alt="Work hours and late rules" width="100%"><br><sub>Work hours and late rules</sub></td><td width="50%" valign="top"><img src="assets/projects/velamart-attendance/02.png" alt="Attendance grid for a pay period" width="100%"><br><sub>Attendance grid for a pay period</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/velamart-attendance/03.png" alt="Payroll runs list" width="100%"><br><sub>Payroll runs list</sub></td><td width="50%" valign="top"><img src="assets/projects/velamart-attendance/04.png" alt="Command palette for quick navigation" width="100%"><br><sub>Command palette for quick navigation</sub></td></tr>
+</table>
+</details>
+</td>
+</tr>
+<tr>
 <td width="42%" valign="top"><img src="assets/projects/business-os-inventory.png" alt="BUSINESS-OS inventory screen with sample products"></td>
 <td valign="top"><b>BUSINESS-OS (private)</b><br>Local-first business app for Philippine small businesses: inventory, sales, purchases, expenses, payroll and financial reports, with VAT and percentage-tax settings. Data stays in the browser, with optional backup and sync to MySQL.<br><br><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"></td>
+</tr>
+<tr>
+<td colspan="2">
+<details>
+<summary>More screens</summary>
+<br>
+<table>
+<tr><td width="50%" valign="top"><img src="assets/projects/business-os/01.png" alt="Inventory catalog with import" width="100%"><br><sub>Inventory catalog with import</sub></td><td width="50%" valign="top"><img src="assets/projects/business-os/02.png" alt="Customer directory" width="100%"><br><sub>Customer directory</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/business-os/03.png" alt="Supplier directory" width="100%"><br><sub>Supplier directory</sub></td><td width="50%" valign="top"><img src="assets/projects/business-os/04.png" alt="Chart of accounts" width="100%"><br><sub>Chart of accounts</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/business-os/05.png" alt="Books of accounts and reports" width="100%"><br><sub>Books of accounts and reports</sub></td><td width="50%" valign="top"><img src="assets/projects/business-os/06.png" alt="Tax dashboard and filing calendar" width="100%"><br><sub>Tax dashboard and filing calendar</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/business-os/07.png" alt="HR employee directory" width="100%"><br><sub>HR employee directory</sub></td><td width="50%" valign="top"><img src="assets/projects/business-os/08.png" alt="Business profile settings" width="100%"><br><sub>Business profile settings</sub></td></tr>
+</table>
+</details>
+</td>
 </tr>
 </table>
 
@@ -89,21 +154,30 @@ Also in this area:
 
 <table>
 <tr>
-<td width="42%" valign="top"><img src="assets/projects/it-ops-procurement.png" alt="IT Ops procurement list with sample purchase orders"></td>
-<td valign="top"><b>IT Ops (Laravel) (private)</b><br>IT desk app: procurement with quotation reading from PDF, Excel, Word and scanned files, LPO generation, stock, subscriptions, onboarding checklists, an activity log and role-based access. Rebuilt in Laravel from the original version below.<br><br><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" alt="Inertia.js"> <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"></td>
+<td colspan="2" valign="top"><b>IT Ops (Laravel) (private)</b><br>IT operations app with procurement: purchase orders, quotes read from PDF, Excel, Word and OCR scans, LPO generation, and automatic Requested and Closed status. Also covers stock with check-out, check-in and retire, vendors, people, users and roles with permissions, a dashboard with a procurement area chart and activity log, global search and magic-link sign-in.<br><br><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" alt="Inertia.js"> <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui"> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Tesseract_OCR-5A5A5A?style=flat-square" alt="Tesseract OCR"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"> <img src="https://img.shields.io/badge/Pest-F72C5B?style=flat-square&logo=pestphp&logoColor=white" alt="Pest"></td>
 </tr>
 <tr>
 <td width="42%" valign="top"><img src="assets/projects/htbc-portal-dashboard.png" alt="HTBC portal dashboard on an empty test database"></td>
 <td valign="top"><b>HTBC member portal (private)</b><br>Portal for a church community. Ticketing, an activities calendar and board, notifications, a people directory with duplicate detection and merge, attendance and discipleship tracking, calendar sync and database-backed permissions. A companion mobile app is built with Expo.<br><br><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"></td>
+</tr>
+<tr>
+<td colspan="2">
+<details>
+<summary>More screens</summary>
+<br>
+<table>
+<tr><td width="50%" valign="top"><img src="assets/projects/htbc-portal/01.png" alt="People directory" width="100%"><br><sub>People directory</sub></td><td width="50%" valign="top"><img src="assets/projects/htbc-portal/02.png" alt="Person profile" width="100%"><br><sub>Person profile</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/htbc-portal/03.png" alt="Ticket view with comments" width="100%"><br><sub>Ticket view with comments</sub></td><td width="50%" valign="top"><img src="assets/projects/htbc-portal/04.png" alt="Activity detail" width="100%"><br><sub>Activity detail</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/htbc-portal/05.png" alt="Event calendar" width="100%"><br><sub>Event calendar</sub></td><td width="50%" valign="top"><img src="assets/projects/htbc-portal/06.png" alt="Attendance dashboard" width="100%"><br><sub>Attendance dashboard</sub></td></tr>
+</table>
+</details>
+</td>
 </tr>
 </table>
 
 Also in this area:
 
 <table>
-<tr>
-<td valign="top"><b>IT Ops (original) (private)</b><br>First version of the same IT desk app: procurement, stock, subscriptions, tasks and a board for a single user, with magic-link sign-in.<br><br><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"></td>
-</tr>
 <tr>
 <td valign="top"><b>AI Guided Coding Skills (private)</b><br>A set of skills for AI coding tools such as Kiro, Grok, OpenCode and Zed. They plan, refactor, review and verify code changes end to end.<br><br><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"></td>
 </tr>
@@ -114,11 +188,34 @@ Also in this area:
 <table>
 <tr>
 <td width="42%" valign="top"><img src="assets/projects/start-and-thrive-database.png" alt="Start and Thrive database table view with sample rows"></td>
-<td valign="top"><b>Start and Thrive (private)</b><br>Workspace app in the style of a notes and database tool. Wiki pages, databases with table, board and calendar views, a rich-text editor, comments with mentions, notifications, favorites, revision history and file uploads. Each user's data is isolated, with owner and member roles.<br><br><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger"></td>
+<td valign="top"><b>Start and Thrive (private)</b><br>Workspace app for an office support services business, in the style of a notes and database tool. Wiki pages, databases with table, board and calendar views, a rich-text editor, comments with mentions, notifications, favorites, revision history and file uploads. Each user's data is isolated, with owner and member roles.<br><br><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger"></td>
+</tr>
+<tr>
+<td colspan="2">
+<details>
+<summary>More screens</summary>
+<br>
+<table>
+<tr><td width="50%" valign="top"><img src="assets/projects/start-and-thrive/01.png" alt="Sign-in page" width="100%"><br><sub>Sign-in page</sub></td><td width="50%" valign="top"><img src="assets/projects/start-and-thrive/02.png" alt="Board view grouped by process status" width="100%"><br><sub>Board view grouped by process status</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/start-and-thrive/03.png" alt="Row detail panel with properties and comments" width="100%"><br><sub>Row detail panel with properties and comments</sub></td><td width="50%" valign="top"><img src="assets/projects/start-and-thrive/04.png" alt="View settings: layout, filters, properties" width="100%"><br><sub>View settings: layout, filters, properties</sub></td></tr>
+</table>
+</details>
+</td>
 </tr>
 <tr>
 <td width="42%" valign="top"><img src="assets/projects/portfolio.png" alt="Personal portfolio landing section"></td>
 <td valign="top"><b>Personal portfolio (private)</b><br>My portfolio site, deployed on Railway.<br><br><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"></td>
+</tr>
+<tr>
+<td colspan="2">
+<details>
+<summary>More screens</summary>
+<br>
+<table>
+<tr><td width="50%" valign="top"><img src="assets/projects/portfolio/01.png" alt="About and tech stack" width="100%"><br><sub>About and tech stack</sub></td><td width="50%" valign="top"><img src="assets/projects/portfolio/02.png" alt="Experience" width="100%"><br><sub>Experience</sub></td></tr>
+</table>
+</details>
+</td>
 </tr>
 </table>
 
