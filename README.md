@@ -1,5 +1,10 @@
 # Marcx Estillore — Software Engineer
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+  <img src="assets/contributions-light.svg" alt="1,141 contributions in the last year, including private work" width="100%">
+</picture>
+
 I build and maintain secure, production-grade web applications that keep business operations running, with a focus on healthcare data, automation and legacy modernization.
 
 ## About
