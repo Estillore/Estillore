@@ -4,11 +4,11 @@ I build and maintain secure, production-grade web applications that keep busines
 
 ## About
 
-I'm a Software Engineer at a U.S.-based acute dialysis company, with 1+ year in the role. I work on a large, continuously evolving codebase made up of many connected modules and business workflows. I handle sensitive healthcare-related data, so security and HIPAA requirements are part of everyday engineering, not an afterthought.
+I'm a Software Engineer at a U.S.-based acute dialysis company, with 2+ years in the role. I work on a large, continuously evolving codebase made up of many connected modules and business workflows. I handle sensitive healthcare-related data, so security and HIPAA requirements are part of everyday engineering, not an afterthought.
 
 ## Experience
 
-**Software Engineer** · U.S.-based acute dialysis company · 1+ year
+**Software Engineer** · U.S.-based acute dialysis company · 2+ years
 
 **Product and platforms**
 - Maintain a production-grade web application that supports core business operations and internal workflows.
