@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner/banner-dark.gif">
+  <img src="assets/banner/banner-light.gif" alt="Marcx Estillore — Software Engineer" width="100%">
+</picture>
+
 # Marcx Estillore — Software Engineer
 
 <picture>
