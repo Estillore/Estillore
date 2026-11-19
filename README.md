@@ -54,8 +54,8 @@ Most of these are private repositories, so they are described without links. Scr
 <summary>More screens</summary>
 <br>
 <table>
-<tr><td width="50%" valign="top"><img src="assets/projects/biomed-job-orders/01.png" alt="New job order form" width="100%"><br><sub>New job order form</sub></td><td width="50%" valign="top"><img src="assets/projects/biomed-job-orders/02.png" alt="Parts lines with prices and totals" width="100%"><br><sub>Parts lines with prices and totals</sub></td></tr>
-<tr><td width="50%" valign="top"><img src="assets/projects/biomed-job-orders/03.png" alt="Saved job orders list with filters" width="100%"><br><sub>Saved job orders list with filters</sub></td><td width="50%" valign="top"><img src="assets/projects/biomed-job-orders/04.png" alt="Quarterly maintenance schedule by PM type" width="100%"><br><sub>Quarterly maintenance schedule by PM type</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/biomed-job-orders/01.png" alt="New job order form" width="400"><br><sub>New job order form</sub></td><td width="50%" valign="top"><img src="assets/projects/biomed-job-orders/02.png" alt="Parts lines with prices and totals" width="400"><br><sub>Parts lines with prices and totals</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/biomed-job-orders/03.png" alt="Saved job orders list with filters" width="400"><br><sub>Saved job orders list with filters</sub></td><td width="50%" valign="top"><img src="assets/projects/biomed-job-orders/04.png" alt="Quarterly maintenance schedule by PM type" width="400"><br><sub>Quarterly maintenance schedule by PM type</sub></td></tr>
 </table>
 </details>
 </td>
@@ -70,10 +70,10 @@ Most of these are private repositories, so they are described without links. Scr
 <summary>More screens</summary>
 <br>
 <table>
-<tr><td width="50%" valign="top"><img src="assets/projects/servpro-medical/01.png" alt="Inventory list with filters, stock and expiry status" width="100%"><br><sub>Inventory list with filters, stock and expiry status</sub></td><td width="50%" valign="top"><img src="assets/projects/servpro-medical/02.png" alt="Item detail with movement history, barcode and label" width="100%"><br><sub>Item detail with movement history, barcode and label</sub></td></tr>
-<tr><td width="50%" valign="top"><img src="assets/projects/servpro-medical/03.png" alt="Stock movements and record-movement form" width="100%"><br><sub>Stock movements and record-movement form</sub></td><td width="50%" valign="top"><img src="assets/projects/servpro-medical/04.png" alt="Barcode scan station for stock in and out" width="100%"><br><sub>Barcode scan station for stock in and out</sub></td></tr>
-<tr><td width="50%" valign="top"><img src="assets/projects/servpro-medical/05.png" alt="Alerts for low stock and expiring items" width="100%"><br><sub>Alerts for low stock and expiring items</sub></td><td width="50%" valign="top"><img src="assets/projects/servpro-medical/06.png" alt="Reports with exportable tables" width="100%"><br><sub>Reports with exportable tables</sub></td></tr>
-<tr><td width="50%" valign="top"><img src="assets/projects/servpro-medical/07.png" alt="Audit log of every action" width="100%"><br><sub>Audit log of every action</sub></td><td width="50%"></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/servpro-medical/01.png" alt="Inventory list with filters, stock and expiry status" width="400"><br><sub>Inventory list with filters, stock and expiry status</sub></td><td width="50%" valign="top"><img src="assets/projects/servpro-medical/02.png" alt="Item detail with movement history, barcode and label" width="400"><br><sub>Item detail with movement history, barcode and label</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/servpro-medical/03.png" alt="Stock movements and record-movement form" width="400"><br><sub>Stock movements and record-movement form</sub></td><td width="50%" valign="top"><img src="assets/projects/servpro-medical/04.png" alt="Barcode scan station for stock in and out" width="400"><br><sub>Barcode scan station for stock in and out</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/servpro-medical/05.png" alt="Alerts for low stock and expiring items" width="400"><br><sub>Alerts for low stock and expiring items</sub></td><td width="50%" valign="top"><img src="assets/projects/servpro-medical/06.png" alt="Reports with exportable tables" width="400"><br><sub>Reports with exportable tables</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/servpro-medical/07.png" alt="Audit log of every action" width="400"><br><sub>Audit log of every action</sub></td><td width="50%"></td></tr>
 </table>
 </details>
 </td>
@@ -107,9 +107,9 @@ Also in this area:
 <summary>More screens</summary>
 <br>
 <table>
-<tr><td width="50%" valign="top"><img src="assets/projects/costmed-pos/01.png" alt="Start shift with opening cash count" width="100%"><br><sub>Start shift with opening cash count</sub></td><td width="50%" valign="top"><img src="assets/projects/costmed-pos/02.png" alt="Sales log with status and receipt actions" width="100%"><br><sub>Sales log with status and receipt actions</sub></td></tr>
-<tr><td width="50%" valign="top"><img src="assets/projects/costmed-pos/03.png" alt="Void flow with admin guard" width="100%"><br><sub>Void flow with admin guard</sub></td><td width="50%" valign="top"><img src="assets/projects/costmed-pos/04.png" alt="Product inventory with barcode and price" width="100%"><br><sub>Product inventory with barcode and price</sub></td></tr>
-<tr><td width="50%" valign="top"><img src="assets/projects/costmed-pos/05.png" alt="Store, tax and receipt settings" width="100%"><br><sub>Store, tax and receipt settings</sub></td><td width="50%"></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/costmed-pos/01.png" alt="Start shift with opening cash count" width="400"><br><sub>Start shift with opening cash count</sub></td><td width="50%" valign="top"><img src="assets/projects/costmed-pos/02.png" alt="Sales log with status and receipt actions" width="400"><br><sub>Sales log with status and receipt actions</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/costmed-pos/03.png" alt="Void flow with admin guard" width="400"><br><sub>Void flow with admin guard</sub></td><td width="50%" valign="top"><img src="assets/projects/costmed-pos/04.png" alt="Product inventory with barcode and price" width="400"><br><sub>Product inventory with barcode and price</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/costmed-pos/05.png" alt="Store, tax and receipt settings" width="400"><br><sub>Store, tax and receipt settings</sub></td><td width="50%"></td></tr>
 </table>
 </details>
 </td>
@@ -124,8 +124,8 @@ Also in this area:
 <summary>More screens</summary>
 <br>
 <table>
-<tr><td width="50%" valign="top"><img src="assets/projects/velamart-attendance/01.png" alt="Work hours and late rules" width="100%"><br><sub>Work hours and late rules</sub></td><td width="50%" valign="top"><img src="assets/projects/velamart-attendance/02.png" alt="Attendance grid for a pay period" width="100%"><br><sub>Attendance grid for a pay period</sub></td></tr>
-<tr><td width="50%" valign="top"><img src="assets/projects/velamart-attendance/03.png" alt="Payroll runs list" width="100%"><br><sub>Payroll runs list</sub></td><td width="50%" valign="top"><img src="assets/projects/velamart-attendance/04.png" alt="Command palette for quick navigation" width="100%"><br><sub>Command palette for quick navigation</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/velamart-attendance/01.png" alt="Work hours and late rules" width="400"><br><sub>Work hours and late rules</sub></td><td width="50%" valign="top"><img src="assets/projects/velamart-attendance/02.png" alt="Attendance grid for a pay period" width="400"><br><sub>Attendance grid for a pay period</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/velamart-attendance/03.png" alt="Payroll runs list" width="400"><br><sub>Payroll runs list</sub></td><td width="50%" valign="top"><img src="assets/projects/velamart-attendance/04.png" alt="Command palette for quick navigation" width="400"><br><sub>Command palette for quick navigation</sub></td></tr>
 </table>
 </details>
 </td>
@@ -140,10 +140,10 @@ Also in this area:
 <summary>More screens</summary>
 <br>
 <table>
-<tr><td width="50%" valign="top"><img src="assets/projects/business-os/01.png" alt="Inventory catalog with import" width="100%"><br><sub>Inventory catalog with import</sub></td><td width="50%" valign="top"><img src="assets/projects/business-os/02.png" alt="Customer directory" width="100%"><br><sub>Customer directory</sub></td></tr>
-<tr><td width="50%" valign="top"><img src="assets/projects/business-os/03.png" alt="Supplier directory" width="100%"><br><sub>Supplier directory</sub></td><td width="50%" valign="top"><img src="assets/projects/business-os/04.png" alt="Chart of accounts" width="100%"><br><sub>Chart of accounts</sub></td></tr>
-<tr><td width="50%" valign="top"><img src="assets/projects/business-os/05.png" alt="Books of accounts and reports" width="100%"><br><sub>Books of accounts and reports</sub></td><td width="50%" valign="top"><img src="assets/projects/business-os/06.png" alt="Tax dashboard and filing calendar" width="100%"><br><sub>Tax dashboard and filing calendar</sub></td></tr>
-<tr><td width="50%" valign="top"><img src="assets/projects/business-os/07.png" alt="HR employee directory" width="100%"><br><sub>HR employee directory</sub></td><td width="50%" valign="top"><img src="assets/projects/business-os/08.png" alt="Business profile settings" width="100%"><br><sub>Business profile settings</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/business-os/01.png" alt="Inventory catalog with import" width="400"><br><sub>Inventory catalog with import</sub></td><td width="50%" valign="top"><img src="assets/projects/business-os/02.png" alt="Customer directory" width="400"><br><sub>Customer directory</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/business-os/03.png" alt="Supplier directory" width="400"><br><sub>Supplier directory</sub></td><td width="50%" valign="top"><img src="assets/projects/business-os/04.png" alt="Chart of accounts" width="400"><br><sub>Chart of accounts</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/business-os/05.png" alt="Books of accounts and reports" width="400"><br><sub>Books of accounts and reports</sub></td><td width="50%" valign="top"><img src="assets/projects/business-os/06.png" alt="Tax dashboard and filing calendar" width="400"><br><sub>Tax dashboard and filing calendar</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/business-os/07.png" alt="HR employee directory" width="400"><br><sub>HR employee directory</sub></td><td width="50%" valign="top"><img src="assets/projects/business-os/08.png" alt="Business profile settings" width="400"><br><sub>Business profile settings</sub></td></tr>
 </table>
 </details>
 </td>
@@ -166,9 +166,9 @@ Also in this area:
 <summary>More screens</summary>
 <br>
 <table>
-<tr><td width="50%" valign="top"><img src="assets/projects/htbc-portal/01.png" alt="People directory" width="100%"><br><sub>People directory</sub></td><td width="50%" valign="top"><img src="assets/projects/htbc-portal/02.png" alt="Person profile" width="100%"><br><sub>Person profile</sub></td></tr>
-<tr><td width="50%" valign="top"><img src="assets/projects/htbc-portal/03.png" alt="Ticket view with comments" width="100%"><br><sub>Ticket view with comments</sub></td><td width="50%" valign="top"><img src="assets/projects/htbc-portal/04.png" alt="Activity detail" width="100%"><br><sub>Activity detail</sub></td></tr>
-<tr><td width="50%" valign="top"><img src="assets/projects/htbc-portal/05.png" alt="Event calendar" width="100%"><br><sub>Event calendar</sub></td><td width="50%" valign="top"><img src="assets/projects/htbc-portal/06.png" alt="Attendance dashboard" width="100%"><br><sub>Attendance dashboard</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/htbc-portal/01.png" alt="People directory" width="400"><br><sub>People directory</sub></td><td width="50%" valign="top"><img src="assets/projects/htbc-portal/02.png" alt="Person profile" width="400"><br><sub>Person profile</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/htbc-portal/03.png" alt="Ticket view with comments" width="400"><br><sub>Ticket view with comments</sub></td><td width="50%" valign="top"><img src="assets/projects/htbc-portal/04.png" alt="Activity detail" width="400"><br><sub>Activity detail</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/htbc-portal/05.png" alt="Event calendar" width="400"><br><sub>Event calendar</sub></td><td width="50%" valign="top"><img src="assets/projects/htbc-portal/06.png" alt="Attendance dashboard" width="400"><br><sub>Attendance dashboard</sub></td></tr>
 </table>
 </details>
 </td>
@@ -196,8 +196,8 @@ Also in this area:
 <summary>More screens</summary>
 <br>
 <table>
-<tr><td width="50%" valign="top"><img src="assets/projects/start-and-thrive/01.png" alt="Sign-in page" width="100%"><br><sub>Sign-in page</sub></td><td width="50%" valign="top"><img src="assets/projects/start-and-thrive/02.png" alt="Board view grouped by process status" width="100%"><br><sub>Board view grouped by process status</sub></td></tr>
-<tr><td width="50%" valign="top"><img src="assets/projects/start-and-thrive/03.png" alt="Row detail panel with properties and comments" width="100%"><br><sub>Row detail panel with properties and comments</sub></td><td width="50%" valign="top"><img src="assets/projects/start-and-thrive/04.png" alt="View settings: layout, filters, properties" width="100%"><br><sub>View settings: layout, filters, properties</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/start-and-thrive/01.png" alt="Sign-in page" width="400"><br><sub>Sign-in page</sub></td><td width="50%" valign="top"><img src="assets/projects/start-and-thrive/02.png" alt="Board view grouped by process status" width="400"><br><sub>Board view grouped by process status</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/start-and-thrive/03.png" alt="Row detail panel with properties and comments" width="400"><br><sub>Row detail panel with properties and comments</sub></td><td width="50%" valign="top"><img src="assets/projects/start-and-thrive/04.png" alt="View settings: layout, filters, properties" width="400"><br><sub>View settings: layout, filters, properties</sub></td></tr>
 </table>
 </details>
 </td>
@@ -212,7 +212,7 @@ Also in this area:
 <summary>More screens</summary>
 <br>
 <table>
-<tr><td width="50%" valign="top"><img src="assets/projects/portfolio/01.png" alt="About and tech stack" width="100%"><br><sub>About and tech stack</sub></td><td width="50%" valign="top"><img src="assets/projects/portfolio/02.png" alt="Experience" width="100%"><br><sub>Experience</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/projects/portfolio/01.png" alt="About and tech stack" width="400"><br><sub>About and tech stack</sub></td><td width="50%" valign="top"><img src="assets/projects/portfolio/02.png" alt="Experience" width="400"><br><sub>Experience</sub></td></tr>
 </table>
 </details>
 </td>
