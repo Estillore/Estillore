@@ -1,8 +1,8 @@
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner/banner-dark.gif">
   <img src="assets/banner/banner-light.gif" alt="Marcx Estillore — Software Engineer" width="100%">
 </picture>
 
-<picture>
 I build and maintain secure, production-grade web applications that keep business operations running, with a focus on healthcare data, automation and legacy modernization.
 
 ## About
