@@ -1,29 +1,14 @@
-<div align="center">
-
-![lofi banner](https://capsule-render.vercel.app/api?type=waving&color=0:2d1b4e,50:6b4c9a,100:c9a0dc&height=180&section=header&text=Marcx%20Estillore&fontSize=42&fontColor=f5e6ff&animation=fadeIn&fontAlignY=35&desc=building%20secure%20systems%20%E2%80%A2%20lo-fi%20vibes&descAlignY=55&descSize=16)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=C9A0DC&center=true&vCenter=true&width=600&lines=Software+Engineer;Healthcare+Systems+%26+Automation;Legacy+Modernization;AI-Assisted+Development)](https://git.io/typing-svg)
-
-</div>
-
-<br>
-
-
-I build and maintain secure, production-grade web applications that keep business operations running, with a focus on healthcare data, automation and legacy modernization.
-
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Estillore&show_icons=true&theme=synthwave&hide_border=true&count_private=true)](https://github.com/Estillore)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Estillore&layout=compact&theme=synthwave&hide_border=true)](https://github.com/Estillore)
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Estillore&theme=synthwave&hide_border=true)](https://github.com/Estillore)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner/banner-dark.gif">
+  <img src="assets/banner/banner-light.gif" alt="Marcx Estillore — Software Engineer" width="100%">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
   <img src="assets/contributions-light.svg" alt="Contribution graph for the last year, including private contributions" width="100%">
 </picture>
+
+I build and maintain secure, production-grade web applications that keep business operations running, with a focus on healthcare data, automation and legacy modernization.
 
 ## About
 
