@@ -4,10 +4,6 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
-  <img src="assets/contributions-light.svg" alt="Contribution graph for the last year, including private contributions" width="100%">
-</picture>
-
 I build and maintain secure, production-grade web applications that keep business operations running, with a focus on healthcare data, automation and legacy modernization.
 
 ## About
